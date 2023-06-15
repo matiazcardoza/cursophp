@@ -1,5 +1,7 @@
 <?php
 
+echo "hola php yaa tu sabes";
+
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
